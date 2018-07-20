@@ -1,0 +1,16 @@
+{
+  "name": "parcel-plugin-static",
+  "version": "1.0.0",
+  "description": "Parcel plugin for copying everything from a configurable source directory to the a configurable directory inside the bundle.",
+  "author": "Andrei Neculaesei <skdmxf@gmail.com>",
+  "keywords": ["parcel", "static", "plugin"],
+  "license": "MIT",
+  "repository": "git@github.com:neculaesei/parcel-plugin-static.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
+}
