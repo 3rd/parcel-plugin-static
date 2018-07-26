@@ -8,6 +8,10 @@ Default source: 'static' - will be the "static" folder in the root of your proje
 
 Default destination: 'static' - will be "dist/static" for most people, leave it empty if you want to copy the files _directly_ into the dist directory.
 
+#### Install
+
+`npm i -D parcel-plugin-static`
+
 #### Configuration
 
 Inside your main package.json add this:
